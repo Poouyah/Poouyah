@@ -33,7 +33,7 @@ HTML / CSS / Bootstrap / MUI / JavaScript / React / Redux / SQL Server / Java / 
    ![icons8-gmail-48-6](https://github.com/user-attachments/assets/ebcd580f-5693-4792-91dc-ee9a119ca0f1)
   
   </a>
-  <a href="t.me/Poouyah">
+  <a href="https://t.me/Poouyah">
     
    ![icons8-telegram-48-2](https://github.com/user-attachments/assets/803e5967-65e6-4403-90c0-b2005f8a1100)
   
